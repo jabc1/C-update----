@@ -1,0 +1,8 @@
+D:\c#\串口助手\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\c#\串口助手\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\c#\串口助手\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\c#\串口助手\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\c#\串口助手\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\c#\串口助手\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\c#\串口助手\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\c#\串口助手\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
