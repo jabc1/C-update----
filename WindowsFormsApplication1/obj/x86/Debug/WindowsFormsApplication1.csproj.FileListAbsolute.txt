@@ -6,3 +6,5 @@ D:\c#\串口助手\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplicatio
 D:\c#\串口助手\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
 D:\c#\串口助手\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
 D:\c#\串口助手\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\git\C-update----\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\git\C-update----\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
